@@ -1,6 +1,6 @@
 FROM tomcat
 
-COPY Qwedo-web-app.war /usr/local/tomcat/webapps/
+COPY killer-web-app.war /usr/local/tomcat/webapps/
 
 EXPOSE 8080
 
